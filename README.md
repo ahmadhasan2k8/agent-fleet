@@ -4,7 +4,7 @@ Specialized AI agents for Claude Code that bring domain expertise to your develo
 
 ## What is this?
 
-A collection of 7 expert agents that Claude Code can automatically delegate tasks to based on your needs. Instead of general responses, you get specialized expertise from domain experts.
+A collection of 8 expert agents that Claude Code can automatically delegate tasks to based on your needs. Instead of general responses, you get specialized expertise from domain experts.
 
 ## 🚀 Quick Setup
 
@@ -39,6 +39,7 @@ That's it! Claude Code will automatically discover and use the agents.
 - **Vision AI Architect** - Computer vision, 3D reconstruction, neural rendering
 - **Agent Protocol Architect** - Multi-agent protocols (MCP, ACP), orchestration systems
 - **Rapid Prototyping Engineer** - MVPs, proof of concepts, quick demos
+- **Jetson Edge AI Engineer** - NVIDIA Jetson deployment, TensorRT optimization, edge AI
 
 ## 💡 How to Use
 
@@ -54,6 +55,9 @@ Just describe what you need - Claude Code will automatically pick the right agen
 
 "Design a real-time data pipeline for user events"
 → Activates Data Architecture Specialist
+
+"How do I optimize my model for Jetson Xavier?"
+→ Activates Jetson Edge AI Engineer
 ```
 
 ### Manual Selection
@@ -105,6 +109,16 @@ You can also explicitly request an agent:
 - Working code implementation
 - Demo deployment strategy
 - Path to production scaling
+
+### Edge AI Deployment
+**Input:** "Deploy YOLOv8 on Jetson Orin with 30 FPS performance"
+
+**Agent Response:**
+- TensorRT optimization pipeline (FP16/INT8 quantization)
+- Container setup with CUDA and DeepStream
+- Memory and power optimization strategies
+- Real-time performance profiling
+- Production deployment checklist
 
 ## 🔧 Customization
 

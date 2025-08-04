@@ -28,6 +28,7 @@ The agent system is organized around **specialized expert agents** that compleme
    - **AI/ML**: `ai-ml-systems-engineer`, `vision-ai-architect` - ML systems and computer vision
    - **Integration**: `agent-protocol-architect` - Multi-agent protocols (MCP, ACP) and orchestration
    - **Development**: `rapid-prototyping-engineer` - MVP and prototype development
+   - **Edge AI**: `jetson-edge-ai-engineer` - NVIDIA Jetson, TensorRT, embedded AI systems
 
 ### Task Delegation Patterns
 
