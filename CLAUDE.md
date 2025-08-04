@@ -26,7 +26,7 @@ The agent system is organized around **specialized expert agents** that compleme
    - **Product Strategy**: `product-research-manager` - Market research, competitive analysis, user research
    - **Infrastructure**: `cloud-infrastructure-architect`, `data-architecture-specialist` - System design and data platforms
    - **AI/ML**: `ai-ml-systems-engineer`, `vision-ai-architect` - ML systems and computer vision
-   - **Integration**: `mcp-integration-architect` - MCP protocol and agent orchestration
+   - **Integration**: `agent-protocol-architect` - Multi-agent protocols (MCP, ACP) and orchestration
    - **Development**: `rapid-prototyping-engineer` - MVP and prototype development
 
 ### Task Delegation Patterns

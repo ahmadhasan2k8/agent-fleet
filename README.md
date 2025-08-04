@@ -37,7 +37,7 @@ That's it! Claude Code will automatically discover and use the agents.
 - **Data Architecture Specialist** - Data platforms, ETL pipelines, warehousing
 - **AI/ML Systems Engineer** - Model deployment, MLOps, production AI
 - **Vision AI Architect** - Computer vision, 3D reconstruction, neural rendering
-- **MCP Integration Architect** - Model Context Protocol, agent orchestration
+- **Agent Protocol Architect** - Multi-agent protocols (MCP, ACP), orchestration systems
 - **Rapid Prototyping Engineer** - MVPs, proof of concepts, quick demos
 
 ## 💡 How to Use
